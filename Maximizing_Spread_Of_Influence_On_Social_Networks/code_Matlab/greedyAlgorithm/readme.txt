@@ -1,0 +1,1 @@
+run greedy.m in matlab. No input parameters needed. It will run with the dataset 'CA-HepPh.txt'
